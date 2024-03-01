@@ -1,6 +1,6 @@
 <?php
 public function execute() {
-    echo "Ramji";
+    echo "Hiiiiiiiiii";
 }
 public function insert() {
     echo "Ramji";
