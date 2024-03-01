@@ -5,3 +5,6 @@ public function execute() {
 public function insert() {
     echo "Ramji";
 }
+public function Display() {
+    echo "dwivedi's";
+}
