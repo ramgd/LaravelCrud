@@ -19,3 +19,11 @@ public function add(){
     return $num;
 }
 echo add();
+
+
+// sum of even number from 1 to 100
+$num = 0;
+for($i = 2; $i <= 100; $i+=2){
+    $num+=$i;
+}
+echo $num;
