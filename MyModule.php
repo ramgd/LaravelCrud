@@ -1,5 +1,5 @@
 <?php
-echo "hi";
+echo "Hi";
 
 echo "My new task";
 
