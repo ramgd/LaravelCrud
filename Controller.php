@@ -1,7 +1,7 @@
 <?php
 
 public function execute() {
-    echo "Hiiiiiiiiii";
+    echo "This function execute";
 }
 public function insert() {
     echo "Ramji";
